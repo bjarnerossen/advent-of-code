@@ -8,11 +8,13 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 and skill levels that can be solved in any programming language you like.
 
 ## Files
-```dayN/
+```
+dayN/
 ├─ part1.py
 ├─ part2.py
 ├─ input.txt
-├─ solution.md```
+├─ solution.md 
+```
 
 ## Progress ⭐️(2/50)
 |Day|Status|Solution|
