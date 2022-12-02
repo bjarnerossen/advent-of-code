@@ -17,7 +17,7 @@ dayN/
 ## Progress ⭐️(2/50)
 |Day|Status|Solution|
 | --- | --- | --- |
-| [Day 1: Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day1) | ⭐️⭐️ | [🎯 Day1](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day1) |
+| [Day 1: Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day1) | ⭐️⭐️ | [🐍 Python](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day1) |
 | This | is 2nd | row |
 | This | is 3rd | row |
 
