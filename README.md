@@ -2,8 +2,10 @@
 
 Welcome to my repository for this years [Advent of Code 2022](https://adventofcode.com/2022)! 
 
-Advent of Code is a 25-day Advent calendar of small programming puzzles for a variety of skill sets 
-and skill levels that can be solved in any programming language. I chose to solve the challenges in Python3 in order to hone on my Python3 skills.
+Advent of Code is a 25-day Advent calendar, consisting of small programming puzzles for a variety of skill sets 
+and skill levels that can be solved in any programming language. 
+
+I chose to solve the challenges in Python3, in order to hone on my Python3 skills.
 
 ## Files
 ```
