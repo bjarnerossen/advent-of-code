@@ -2,10 +2,8 @@
 
 Welcome to my repository for this years [Advent of Code 2022](https://adventofcode.com/2022)! 
 
-Puzzle inputs and descriptions are not included in this repository. You'll have to get these yourself from the AoC website. Here's why.
-
-Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets 
-and skill levels that can be solved in any programming language you like.
+Advent of Code is a 25-day Advent calendar of small programming puzzles for a variety of skill sets 
+and skill levels that can be solved in any programming language. I chose to solve the challenges in Python3 in order to hone on my Python3 skills.
 
 ## Files
 ```
