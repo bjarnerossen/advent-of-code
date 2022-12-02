@@ -7,7 +7,7 @@ and skill levels that can be solved in any programming language.
 
 I chose to solve the challenges in Python3, in order to hone on my Python3 skills.
 
-## Files
+## File structure
 ```
 dayN/
 ├─ file.py
