@@ -10,12 +10,19 @@ I chose to solve the challenges in Python3, in order to hone on my Python3 skill
 ## Files
 ```
 dayN/
-├─ file.py
+├─ main.py
 ├─ input.txt
 ```
+## Running the code
+To run the code of a specific day from the root directory run the following, replacing `xx` with the day number, `01` - `25`. 
+
+```
+python3 dayxx/main.py
+
+
 
 ## Progress ⭐️(2/50)
-|Day|Status|Solution|
+|Day|Name|Stars|
 | --- | --- | --- |
-| [Day 1: Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day1) | ⭐️⭐️ | [🐍 Python](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day1) |
+| 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day1) | ⭐️⭐️|
 
