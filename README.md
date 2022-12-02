@@ -18,7 +18,7 @@ To run the code of a specific day from the root directory run the following, rep
 
 ```
 python3 dayxx/main.py
-
+```
 
 
 ## Progress ⭐️(2/50)
