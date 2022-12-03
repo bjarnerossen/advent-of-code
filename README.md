@@ -7,17 +7,11 @@ and skill levels that can be solved in any programming language.
 
 I chose to solve the challenges in Python3, in order to hone on my Python3 skills.
 
-## Files
-```
-dayN/
-├─ main.py
-├─ input.txt
-```
 ## Running the code
-To run the code of a specific day from the root directory run the following, replacing `xx` with the day number, `01` - `25`. 
+To run the code of a specific day, run the following, replacing `xx` with the day number, `01` - `25`. 
 
 ```
-python3 dayxx/main.py
+python3 xx.py
 ```
 
 
