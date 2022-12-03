@@ -1,5 +1,3 @@
-from string import ascii_lowercase, ascii_uppercase
-
 # Part1
 with open("input.txt") as file:
     data = file.read()
@@ -33,9 +31,9 @@ with open("input.txt") as file:
         set2 = set(data[i+1])
         set3 = set(data[i+2])
 
-        shared = set1.intersection(set2, set3)
+        a = set1.intersection(set2, set3)
          
-        for char in shared:
+        for char in a:
             if (char.islower()):
                 counter2 += int(ord(f"{char}")-96)
             elif (char.isupper()):
