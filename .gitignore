@@ -1,0 +1,5 @@
+# Ignore all input files
+input.txt 
+
+# Ignore all text files
+*.txt
