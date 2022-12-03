@@ -12,7 +12,6 @@ For this year, I chose to solve the puzzles in Python3.
 ```
 dayXX/
 ├─ main.py
-├─ input.txt
 ```
 
 ## Run the code 🦌
