@@ -21,8 +21,8 @@ python3 dayxx/main.py
 ```
 
 
-## Progress ⭐️(2/50)
+## Progress ⭐️(4/50)
 |Day|Name|Stars|
 | --- | --- | --- |
-| 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day1) | ⭐️⭐️|
-
+| 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day01) | ⭐️⭐️|
+| 02 | [Rock Paper Scissors](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day02) | ⭐️⭐️|
