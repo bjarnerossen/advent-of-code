@@ -45,10 +45,57 @@ for line in data:
             score += 3
         score += 3
 
-print(f"Part1 Answer:", score)
-
 # Part2
+## Opponent
+# A: Rock
+# B: Paper
+# C: Scissor
 
+## Me 
+# X: Loose 
+# Y: Draw 
+# Z: Win
+
+# Rock --> 1
+# Paper --> 2
+# Scissor --> 3
+
+## Score
+# Lost --> 0
+# Draw --> 3
+# Win --> 6
+
+score_2 = 0
+
+for line in data:
+    opp, me = line.split()
+
+    if me =="X":
+        if opp == "A":
+            score_2 += 3
+        if opp == "B":
+            score_2 += 1
+        if opp == "C":
+            score_2 += 2
+
+    if me == "Y":
+        if opp == "A":
+            score_2 += 4
+        if opp == "B":
+            score_2 += 5
+        if opp == "C":
+            score_2 += 6
+
+    if me == "Z":
+        if opp == "A":
+            score_2 += 8
+        if opp == "B":
+            score_2 += 9
+        if opp == "C":
+            score_2 += 7
+            
+print(f"Part1 Answer:", score)
+print(f"Part2 Answer:", score_2)
 # scores = {
 #         ("A", "B"): 4,
 #         ("B", "X"): 1,
