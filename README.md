@@ -1,5 +1,4 @@
 # Advent of Code 2022 🎄🧝
-[![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage") 
 
 Welcome to my repository for this years [Advent of Code 2022](https://adventofcode.com/2022)! 
 
@@ -31,11 +30,12 @@ via *ssh*
 ```
 git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 ```
+<!--- advent_readme_stars table --->
 
 ## Progress ⭐️(6/50)
-|Day|Name|Stars|
-| --- | --- | --- |
-| 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day01) | ⭐️⭐️|
-| 02 | [Rock Paper Scissors](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day02) | ⭐️⭐️|
-| 03 | [Rucksack Reorganization](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day03) | ⭐️⭐️|
+|Day|Name|Part1|Part2|
+| --- | --- | --- | --- |
+| 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day01) | ⭐️|⭐️|
+| 02 | [Rock Paper Scissors](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day02) |⭐️|⭐️|
+| 03 | [Rucksack Reorganization](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day03) |⭐️|⭐️|
 | 04 | [Camp Cleanup](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day04) | |
