@@ -4,6 +4,7 @@ with open("input.txt") as file:
     data = data.split("\n")
 
 counter1 = 0
+counter2 = 0
 
 for line in data:
     elf1, elf2 = line.split(",")
@@ -16,17 +17,6 @@ for line in data:
         counter1 += 1
 
 # Part2
-with open("input.txt") as file:
-    data = file.read()
-    data = data.split("\n")
-
-counter2 = 0
-
-for line in data:
-    elf1, elf2 = line.split(",")
-    a, b = map(int, elf1.split("-"))
-    c, d = map(int, elf2.split("-"))
-
     if max(a, c) <= min(b, d):
         counter2 += 1
         
