@@ -38,3 +38,15 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 02 | [Rock Paper Scissors](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day02) |⭐️⭐️|
 | 03 | [Rucksack Reorganization](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day03) |⭐️⭐️|
 | 04 | [Camp Cleanup](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day04) |⭐️⭐️|
+| 05 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day05) ||
+| 06 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day06) ||
+| 07 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day07) ||
+| 08 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day08) ||
+| 09 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day09) ||
+| 10 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day10) ||
+| 11 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day11) ||
+| 12 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day12) ||
+| 13 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day13) ||
+| 14 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day14) ||
+| 15 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day15) ||
+| 16 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day04) ||
