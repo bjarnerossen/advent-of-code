@@ -31,10 +31,10 @@ via *ssh*
 git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 ```
 
-## Progress ⭐️(6/50)
+## Progress ⭐️(8/50)
 |Day|Name|Stars|
 | --- | --- | --- |
 | 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day01) |⭐️⭐️|
 | 02 | [Rock Paper Scissors](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day02) |⭐️⭐️|
 | 03 | [Rucksack Reorganization](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day03) |⭐️⭐️|
-| 04 | [Camp Cleanup](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day04) | |
+| 04 | [Camp Cleanup](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day04) |⭐️⭐️|
