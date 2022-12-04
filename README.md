@@ -1,4 +1,5 @@
 # Advent of Code 2022 🎄🧝
+[![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage") 
 
 Welcome to my repository for this years [Advent of Code 2022](https://adventofcode.com/2022)! 
 
