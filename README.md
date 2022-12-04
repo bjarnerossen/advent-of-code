@@ -30,7 +30,6 @@ via *ssh*
 ```
 git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 ```
-<!--- advent_readme_stars table --->
 
 ## Progress ⭐️(6/50)
 |Day|Name|Part1|Part2|
