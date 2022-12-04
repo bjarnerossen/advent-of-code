@@ -7,12 +7,12 @@ counter1 = 0
 
 for line in data:
     elf1, elf2 = line.split(",")
-    x0, y0 = map(int, elf1.split("-"))
-    x1, y1 = map(int, elf2.split("-"))
+    a, b = map(int, elf1.split("-"))
+    c, d = map(int, elf2.split("-"))
 
-    if x0 >= x1 and y0 <= y1:
+    if a >= c and b <= d:
         counter1 += 1
-    elif x1 >= x0 and y1 <= y0:
+    elif c >= a and d <= b:
         counter1 += 1
 
 # Part2
@@ -24,10 +24,10 @@ counter2 = 0
 
 for line in data:
     elf1, elf2 = line.split(",")
-    x0, y0 = map(int, elf1.split("-"))
-    x1, y1 = map(int, elf2.split("-"))
+    a, b = map(int, elf1.split("-"))
+    c, d = map(int, elf2.split("-"))
 
-    if max(x0, x1) <= min(y0, y1):
+    if max(a, c) <= min(b, d):
         counter2 += 1
         
 print("Part1 Answer:",counter1)
