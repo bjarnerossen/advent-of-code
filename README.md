@@ -26,7 +26,7 @@ Clone the repository if you haven't done so via *https*
 ```
 git clone https://github.com/bjarnerossen/Advent-of-Code-2022.git
 ```
-*via ssh*
+via *ssh*
 ```
 git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 ```
