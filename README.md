@@ -49,4 +49,13 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 13 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day13) ||
 | 14 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day14) ||
 | 15 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day15) ||
-| 16 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day04) ||
+| 16 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day16) ||
+| 17 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day17) ||
+| 18 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day18) ||
+| 19 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day19) ||
+| 20 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day20) ||
+| 21 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day21) ||
+| 22 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day22) ||
+| 23 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day23) ||
+| 24 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day24) ||
+| 25 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day25) ||
