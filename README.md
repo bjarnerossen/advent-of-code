@@ -1,4 +1,5 @@
 # Advent of Code 2022 🎄🧝
+![](https://img.shields.io/badge/stars%20⭐-34-yellow)	![](https://img.shields.io/badge/days%20completed-17-red)	
 
 Welcome to my repository for this years [Advent of Code 2022](https://adventofcode.com/2022)! 
 
@@ -38,7 +39,7 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 02 | [Rock Paper Scissors](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day02) |⭐️⭐️|
 | 03 | [Rucksack Reorganization](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day03) |⭐️⭐️|
 | 04 | [Camp Cleanup](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day04) |⭐️⭐️|
-| 05 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day05) ||
+| 05 | [Supply Stacks](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day05) ||
 | 06 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day06) ||
 | 07 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day07) ||
 | 08 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day08) ||
