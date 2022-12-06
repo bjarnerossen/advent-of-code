@@ -40,7 +40,7 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 03 | [Rucksack Reorganization](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day03) |⭐️⭐️|
 | 04 | [Camp Cleanup](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day04) |⭐️⭐️|
 | 05 | [Supply Stacks](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day05) |⭐️⭐️|
-| 06 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day06) ||
+| 06 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day06) |⭐️⭐️|
 | 07 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day07) ||
 | 08 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day08) ||
 | 09 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day09) ||
