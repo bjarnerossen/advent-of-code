@@ -42,8 +42,8 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 06 | [Tuning Trouble](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day06) |⭐️⭐️|
 | 07 | [No Space Left On Device](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day07) |⭐️⭐️|
 | 08 | [Treetop Tree House](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day08) |⭐️⭐️|
-| 09 | [Rope Bridge](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day09) ||
-| 10 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day10) ||
+| 09 | [Rope Bridge](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day09) |⭐️⭐️|
+| 10 | [Cathode-Ray Tube](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day10) ||
 | 11 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day11) ||
 | 12 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day12) ||
 | 13 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day13) ||
