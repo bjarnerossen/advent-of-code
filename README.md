@@ -31,7 +31,7 @@ via *ssh*
 git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 ```
 
-## Progress ⭐️(16/50)
+## Progress ⭐️(20/50)
 |Day|Name|Stars|
 | --- | --- | --- |
 | 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day01) |⭐️⭐️|
@@ -43,7 +43,7 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 07 | [No Space Left On Device](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day07) |⭐️⭐️|
 | 08 | [Treetop Tree House](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day08) |⭐️⭐️|
 | 09 | [Rope Bridge](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day09) |⭐️⭐️|
-| 10 | [Cathode-Ray Tube](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day10) ||
+| 10 | [Cathode-Ray Tube](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day10) |⭐️⭐️|
 | 11 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day11) ||
 | 12 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day12) ||
 | 13 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day13) ||
