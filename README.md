@@ -45,7 +45,7 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 09 | [Rope Bridge](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day09) |⭐️⭐️|
 | 10 | [Cathode-Ray Tube](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day10) |⭐️⭐️|
 | 11 | [Monkey in the Middle](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day11) |⭐️⭐️|
-| 12 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day12) ||
+| 12 | [Hill Climbing Algorithm](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day12) |⭐️⭐️|
 | 13 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day13) ||
 | 14 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day14) ||
 | 15 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day15) ||
