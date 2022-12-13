@@ -31,7 +31,7 @@ via *ssh*
 git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 ```
 
-## Progress ⭐️(22/50)
+## Progress ⭐️(24/50)
 |Day|Name|Stars|
 | --- | --- | --- |
 | 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day01) |⭐️⭐️|
