@@ -47,7 +47,7 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 11 | [Monkey in the Middle](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day11) |⭐️⭐️|
 | 12 | [Hill Climbing Algorithm](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day12) |⭐️⭐️|
 | 13 | [Distress Signal](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day13) |⭐️⭐️|
-| 14 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day14) ||
+| 14 | [Regolith Reservoir](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day14) |⭐️⭐️|
 | 15 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day15) ||
 | 16 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day16) ||
 | 17 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day17) ||
