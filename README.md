@@ -57,5 +57,5 @@ git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
 | 21 | [Monkey Math](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day21) ||
 | 22 | [Monkey Map](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day22) ||
 | 23 | [Unstable Diffusion](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day23) ||
-| 24 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day24) ||
-| 25 | [tbd](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day25) ||
+| 24 | [Blizzard Basin](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day24) ||
+| 25 | [Full of Hot Air](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day25) ||
