@@ -1,37 +1,40 @@
 # Advent of Code 2022 🎄🧝
+This repository contains my solutions for the [Advent of Code 2022](https://adventofcode.com/2022) programming puzzles, which consist of 25 days of challenges to be solved using any programming language. For this year, I chose to use Python3.
 
-Welcome to my repository for this years [Advent of Code 2022](https://adventofcode.com/2022)! 
+## Prerequisites
+* Python 3.x installed on your system.
 
-Advent of Code is a 25-day Advent calendar, consisting of small programming puzzles,that can be solved in any programming language.
-For this year, I chose to solve the puzzles in Python3.
+## Getting started 🦌
 
->Puzzle inputs and descriptions are not included in this repository. You'll have to get these yourself from the AoC website. [Here's why](https://www.reddit.com/r/adventofcode/comments/k99rod/sharing_input_data_were_we_requested_not_to/).
+1. 📥 Clone the repository to your local machine using the following command:
+
+via *https*
+```
+git clone https://github.com/bjarnerossen/Advent-of-Code-2022.git
+```
+
+via *ssh*
+```
+git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
+```
+
+2. 📂 Navigate to the corresponding directory and execute the Python script:
+```terminal
+cd day01
+python3 main.py
+```
+
+> Note that the input data and puzzle descriptions are not included in this repository, so you will need to download them from the Advent of Code website yourself. [Here's why](https://www.reddit.com/r/adventofcode/comments/k99rod/sharing_input_data_were_we_requested_not_to/).
 
 ## Files
+The repository is organized into directories named after the corresponding day of the Advent calendar. Inside each directory, you will find a Python script with the solution to the puzzle for that day.
 
 ```
 dayXX/
 ├─ main.py
 ```
 
-## Run the code 🦌
-
-To run the code of a specific day from the root directory run the following, replacing `XX` with the day number, `01` - `25`.
-
-```
-python3 dayXX/main.py
-```
-
-Clone the repository if you haven't done so via *https*
-```
-git clone https://github.com/bjarnerossen/Advent-of-Code-2022.git
-```
-via *ssh*
-```
-git clone git@github.com:bjarnerossen/Advent-of-Code-2022.git
-```
-
-## Progress ⭐️(27/50)
+## Progress
 |Day|Name|Stars|
 | --- | --- | --- |
 | 01 | [Calorie Counting](https://github.com/bjarnerossen/Advent-of-Code-2022/tree/main/day01) |⭐️⭐️|
