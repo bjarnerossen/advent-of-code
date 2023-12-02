@@ -13,13 +13,13 @@ This repository contains my solutions for the [Advent of Code](https://adventofc
 via _https_
 
 ```
-git clone https://github.com/bjarnerossen/Advent-of-Code.git
+git clone https://github.com/bjarnerossen/advent-of-code.git
 ```
 
 via _ssh_
 
 ```
-git clone git@github.com:bjarnerossen/Advent-of-Code.git
+git clone git@github.com:bjarnerossen/advent-of-code.git
 ```
 
 2. 📂 Navigate to the corresponding directory and execute the Python script:
