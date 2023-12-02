@@ -1,6 +1,6 @@
 # Advent of Code 🎄🧝
 
-This repository contains my solutions for the [Advent of Code](https://adventofcode.com/) programming puzzles, which consist of 25 days of challenges to be solved using any programming language. For this year, I chose to use Python3.
+This repository contains my solutions for the [Advent of Code](https://adventofcode.com/) programming puzzles, which consist of 25 days of challenges to be solved using any programming language.
 
 ## Prerequisites
 
