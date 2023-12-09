@@ -37,8 +37,8 @@ for y, line in enumerate(data):
                     gears[(s_x, s_y)].append(num)
                 break
 
+sum_of_prods = 0
 for part_nums in gears.values():
     if len(part_nums) == 2:
-        print(sum(prod(part_nums)))
-
-print(gears)
+        sum_of_prods += prod(part_nums)
+print(sum_of_prods)
