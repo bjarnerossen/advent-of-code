@@ -22,13 +22,6 @@ via _ssh_
 git clone git@github.com:bjarnerossen/advent-of-code.git
 ```
 
-2. 📂 Navigate to the corresponding directory and execute the Python script:
-
-```terminal
-cd day01
-python3 main.py
-```
-
 > Note that the input data and puzzle descriptions are not included in this repository, so you will need to download them from the Advent of Code website yourself. [Here's why](https://www.reddit.com/r/adventofcode/comments/k99rod/sharing_input_data_were_we_requested_not_to/).
 
 ## Files
@@ -37,7 +30,8 @@ The repository is organized into directories named after the corresponding day o
 
 ```
 dayXX/
-├─ main.py
+├─ part1.py
+├─ part2.py
 ```
 
 ## Progress
@@ -45,7 +39,7 @@ dayXX/
 | --- | ---- | ------ |
 | 01  | ⭐️⭐️ | ⭐️⭐️ |
 | 02  | ⭐️⭐️ | ⭐️⭐️ |
-| 03  | ⭐️⭐️ |  |
+| 03  | ⭐️⭐️ | ⭐️⭐️ |
 | 04  | ⭐️⭐️ |  |
 | 05  | ⭐️⭐️ |  |
 | 06  | ⭐️⭐️ |  |
