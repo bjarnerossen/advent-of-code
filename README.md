@@ -22,6 +22,13 @@ via _ssh_
 git clone git@github.com:bjarnerossen/advent-of-code.git
 ```
 
+2. 📂 Navigate to the corresponding directory and execute the Python script:
+
+```terminal
+cd day01
+python3 main.py
+```
+
 > Note that the input data and puzzle descriptions are not included in this repository, so you will need to download them from the Advent of Code website yourself. [Here's why](https://www.reddit.com/r/adventofcode/comments/k99rod/sharing_input_data_were_we_requested_not_to/).
 
 ## Files
@@ -30,11 +37,38 @@ The repository is organized into directories named after the corresponding day o
 
 ```
 dayXX/
-├─ part1.py
-├─ part2.py
+├─ main.py
 ```
 
 ## Progress
+
+| Day | [2022](https://github.com/bjarnerossen/advent-of-code/tree/main/2022) | [2023](https://github.com/bjarnerossen/advent-of-code/tree/main/2023/) |
+| --- | --------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 01  | ⭐️⭐️                                                                | ⭐️⭐️                                                                 |
+| 02  | ⭐️⭐️                                                                | ⭐️⭐️                                                                 |
+| 03  | ⭐️⭐️                                                                |                                                                        |
+| 04  | ⭐️⭐️                                                                |                                                                        |
+| 05  | ⭐️⭐️                                                                |                                                                        |
+| 06  | ⭐️⭐️                                                                |                                                                        |
+| 07  | ⭐️⭐️                                                                |                                                                        |
+| 08  | ⭐️⭐️                                                                |                                                                        |
+| 09  | ⭐️⭐️                                                                |                                                                        |
+| 10  | ⭐️⭐️                                                                |                                                                        |
+| 11  | ⭐️⭐️                                                                |                                                                        |
+| 12  | ⭐️⭐️                                                                |                                                                        |
+| 13  | ⭐️⭐️                                                                |                                                                        |
+| 14  | ⭐️                                                                   |                                                                        |
+| 15  |                                                                       |                                                                        |
+| 16  |                                                                       |                                                                        |
+| 17  |                                                                       |                                                                        |
+| 18  |                                                                       |                                                                        |
+| 19  |                                                                       |                                                                        |
+| 20  |                                                                       |                                                                        |
+| 21  |                                                                       |                                                                        |
+| 22  |                                                                       |                                                                        |
+| 23  |                                                                       |                                                                        |
+| 24  |                                                                       |                                                                        |
+| 25  |                                                                       |                                                                        |
 
 | Day | [2022](https://github.com/bjarnerossen/advent-of-code/tree/main/2022) | [2023](https://github.com/bjarnerossen/advent-of-code/tree/main/2023/) |
 | --- | --------------------------------------------------------------------- | ---------------------------------------------------------------------- |
