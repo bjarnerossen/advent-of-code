@@ -16,7 +16,7 @@ def determine_hand_type(hand: str) -> int:
 
 
 def map_cards_to_integers(hand: str) -> tuple:
-    ordered_card_labels = 'AKQJT98765432'
+    ordered_card_labels = 'AKQT98765432J'
     return tuple(ordered_card_labels.index(card) for card in hand)
 
 
