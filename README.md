@@ -9,7 +9,7 @@ This repository contains my solutions for the awesome [Advent of Code](https://a
 
 ## Getting Started 🦌
 
-1. 📥 Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 #### Clone via HTTPS
 
@@ -22,7 +22,7 @@ git clone https://github.com/bjarnerossen/advent-of-code.git
 git clone git@github.com:bjarnerossen/advent-of-code.git
 ```
 
-2. 📂 Navigate to the corresponding directory and execute the Python script:
+2. Navigate to the corresponding directory and execute the Python script:
 
 #### For Python (2022/2023)
 ```terminal
@@ -53,7 +53,7 @@ The repository is organized into directories named after the corresponding day o
 
 | Day  | [2022](https://github.com/bjarnerossen/advent-of-code/tree/main/2022) | [2023](https://github.com/bjarnerossen/advent-of-code/tree/main/2023/) | [2024](https://github.com/bjarnerossen/advent-of-code/tree/main/2024/) |
 |------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| 01   | ⭐️⭐️ | ⭐️⭐️ | |
+| 01   | ⭐️⭐️ | ⭐️⭐️ | ⭐️⭐️ |
 | 02   | ⭐️⭐️ | ⭐️⭐️ | |
 | 03   | ⭐️⭐️ | ⭐️⭐️ | |
 | 04   | ⭐️⭐️ | ⭐️⭐️ | |
