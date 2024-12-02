@@ -5,15 +5,13 @@ import (
 	"bytes"
 	"fmt"
 	"os"
-	"sort"
 	"strconv"
 	"strings"
 )
 
 func main() {
 	var answer int
-	var left []int
-	var right []int
+	var left, right []int
 
 	input, err := os.ReadFile("input.txt") // Read input file
 	if err != nil {
@@ -44,20 +42,24 @@ func main() {
 			right = append(right, r)
 		}
 	}
-	sort.Ints(left)
-	sort.Ints(right)
 
-	if len(left) != len(right) {
-		fmt.Println("Slices are not of equal length")
+	// Handle errors from scanner
+	if err := scanner.Err(); err != nil {
+		fmt.Println("Error reading input:", err)
 		return
 	}
 
-	for i := 0; i < len(left); i++ {
-		diff := right[i] - left[i]
-		if diff < 0 {
-			diff = -diff
-		}
-		answer += diff
+	// Count occurrences of each number in the right list
+	countMap := make(map[int]int)
+	for _, num := range right {
+		countMap[num]++
 	}
-	fmt.Println(answer)
+	
+	// Calculate the similarity score
+	for _, num := range left {
+		answer += num * countMap[num] // Multiply by the count of num in the right list
+	}
+	
+	// Print the total similarity score
+	fmt.Println("Total Similarity Score:", answer)
 }
