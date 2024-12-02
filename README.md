@@ -1,4 +1,4 @@
-# Advent of Code 🎄🧝
+# Advent of Code 🕯️🕯️🕯️🕯️
 
 This repository contains my solutions for the awesome [Advent of Code](https://adventofcode.com/) programming puzzles, a series of 25 challenges designed to test programming skills in any language.
 
