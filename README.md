@@ -27,13 +27,13 @@ git clone git@github.com:bjarnerossen/advent-of-code.git
 #### For Python (2022/2023)
 ```terminal
 cd day01
-python3 part01.py
+python3 part1.py
 ```
 
 #### For Go (2024)
 ```terminal
 cd day01
-go run part01.go
+go run part1.go
 ```
 
 > Note that the input data and puzzle descriptions are not included in this repository, so you will need to download them from the Advent of Code website yourself. [Here's why](https://www.reddit.com/r/adventofcode/comments/k99rod/sharing_input_data_were_we_requested_not_to/).
