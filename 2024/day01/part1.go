@@ -53,6 +53,9 @@ func main() {
 
 	for i := 0; i < len(left); i++ {
 		diff := right[i] - left[i]
+		if diff < 0 {
+			diff = -diff
+		}
 		answer += diff
 	}
 	fmt.Println(answer)
