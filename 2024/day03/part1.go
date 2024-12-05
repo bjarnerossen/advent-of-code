@@ -36,11 +36,7 @@ func main() {
 			fmt.Println("Error converting y:", err)
 			continue
 		}
-
 		sum += x * y
-
-		fmt.Println(match)
-		fmt.Println("x:", x, "y:", y)
 	}
 	fmt.Println(sum)
 }
