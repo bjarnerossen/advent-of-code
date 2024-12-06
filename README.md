@@ -54,8 +54,8 @@ The repository is organized into directories named after the corresponding day o
 | Day  | [2022](https://github.com/bjarnerossen/advent-of-code/tree/main/2022) | [2023](https://github.com/bjarnerossen/advent-of-code/tree/main/2023/) | [2024](https://github.com/bjarnerossen/advent-of-code/tree/main/2024/) |
 |------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 | 01   | ⭐️⭐️ | ⭐️⭐️ | ⭐️⭐️ |
-| 02   | ⭐️⭐️ | ⭐️⭐️ | |
-| 03   | ⭐️⭐️ | ⭐️⭐️ | |
+| 02   | ⭐️⭐️ | ⭐️⭐️ |⭐️⭐️ |
+| 03   | ⭐️⭐️ | ⭐️⭐️ |⭐️⭐️ |
 | 04   | ⭐️⭐️ | ⭐️⭐️ | |
 | 05   | ⭐️⭐️ | ⭐️   | |
 | 06   | ⭐️⭐️ | ⭐️⭐️ | |
