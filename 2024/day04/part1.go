@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+	"os"
+	"strings"
 )
 
 func countXMAS(grid []string) int {
@@ -10,7 +12,7 @@ func countXMAS(grid []string) int {
 	// The dimensions of the grid
 	rows := len(grid)
 	cols := len(grid[0])
-	
+
 	// Directions: right, down, left, up, diagonals
 	directions := [][2]int{
 		{0, 1},   // right
@@ -53,21 +55,15 @@ func canFormWord(grid []string, r, c, dr, dc int, word string) bool {
 }
 
 func main() {
-	// Example grid from the puzzle
-	grid := []string{
-		"MMMSXXMASM",
-		"MSAMXMSMSA",
-		"AMXSXMAAMM",
-		"MSAMASMSMX",
-		"XMASAMXAMM",
-		"XXAMMXXAMA",
-		"SMSMSASXSS",
-		"SAXAMASAAA",
-		"MAMMMXMMMM",
-		"MXMXAXMASX",
+	data, err := os.ReadFile("input.txt")
+	if err != nil {
+		fmt.Println("Error reading file:", err)
+		return
 	}
 
-	// Count occurrences of XMAS
+	// Split the input into lines
+	grid := strings.Split(strings.TrimSpace(string(data)), "\n")
+
 	result := countXMAS(grid)
 	fmt.Println(result)
 }
